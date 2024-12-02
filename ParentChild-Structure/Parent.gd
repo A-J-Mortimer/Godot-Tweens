@@ -1,6 +1,6 @@
 ####
-# THIS SCRIPT GOES IN THE PARENT NODE WHERE THE CHILD OBJECTS TO TWEEN WILL BE CHILD
-# https://github.com/A-J-Mortimer
+# THIS SCRIPT IS PLACED IN THE PARENT NODE
+# https://github.com/A-J-Mortimer/Godot-Tweens/
 ####
 
 extends Node2D
